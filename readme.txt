@@ -1,0 +1,4 @@
+hello
+szia
+csa
+szeva
